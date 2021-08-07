@@ -47,8 +47,7 @@ The  **block diagram of the automated teller machine**  consists of mainly two i
 ![](RackMultipart20210807-4-g8rxqj_html_b3d9de5b00dff8d8.png)
 
 **SWOT ANALYSIS**
-
-![](RackMultipart20210807-4-g8rxqj_html_4835a8e56f150d1d.png)
+![image](https://user-images.githubusercontent.com/88454364/128591207-e68cfc03-2ef2-4a26-945b-36b0814f3312.png)
 
 **4W&#39;s and 1&#39;H**
 
